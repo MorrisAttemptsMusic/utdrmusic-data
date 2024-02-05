@@ -1,0 +1,15 @@
+Name: Undertale/Deltarune Music Wiki
+Color: '#b962b9'
+Canonical Base: https://utdr.hsmusic.wiki/
+Short Name: UTDR Music Wiki
+Enable Flashes & Games: false
+Enable Listings: true
+Enable News: false
+Enable Art Tag UI: false
+Enable Group UI: true
+Divide Track Lists By Groups:
+- group:official
+- group:beyond
+- group:additional-tracks
+Footer Content: >-
+    [HSMusic is an unofficial fan project.](https://hsmusic.wiki/about/) Its creation and development are made possible through the [collaboration](https://hsmusic.wiki/discord/) and [feedback](https://hsmusic.wiki/feedback/) of our awesome and passionate community. Thank you!

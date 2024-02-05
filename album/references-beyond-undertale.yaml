@@ -1,0 +1,619 @@
+Album: References Beyond Undertale
+Has Track Numbers: false
+Groups:
+- Additional Tracks
+Color: '#f5fc8e'
+---
+Section: Miscellany by Toby Fox
+---
+Track: Noisemaster Theme
+Artists:
+- Toby Fox
+Duration: '1:46'
+URLs:
+- https://www.youtube.com/watch?v=iPT_YvaM7vc
+---
+Track: Patient
+Artists:
+- Toby Fox
+Duration: 0:59
+URLs:
+- https://youtu.be/HNdCAUpmXws
+Referenced Tracks:
+- Doctor
+MIDI Project Files:
+- Title: MIDI by IronInvoker47
+  Files:
+  - 'Patient - IronInvoker47 (piano).mid'
+---
+Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=grGnVeKCcvc
+---
+Track: Terezi's Theme
+Artists:
+- Toby Fox
+Duration: '2:16'
+URLs:
+- https://homestuck.bandcamp.com/track/terezis-theme-2
+- https://youtu.be/IIw4NDK7j4w
+Cover Artists:
+- Kirvia
+Cover Art File Extension: png
+Referenced Tracks:
+- The Lemonsnout Turnabout
+- Theme
+Sheet Music Files:
+- Title: Piano score by Resound
+  Files:
+  - "Terezi's Theme - Resound (piano score).pdf"
+- Title: Piano score by Moondelev
+  Files:
+  - "Terezi's Theme - Moondelev (piano score).pdf"
+MIDI Project Files:
+- Title: MIDI by Resound
+  Files:
+  - "Terezi's Theme - Resound.mid"
+- Title: MIDI by Moondelev (piano)
+  Files:
+  - "Terezi's Theme - Moondelev (piano).mid"
+Commentary: |-
+    <i>Toby Fox:</i> (booklet commentary)
+
+    (Terezi Walkabout)
+
+    Terezi's theme evolved when Andrew asked me to create a looping version of [[The Lemonsnout Turnabout|Lemonsnout Turnabout]].
+
+    Lemonsnout is a very narrative song. It didn't feel right to repeat a single part of it indefinitely, so I instead took several motifs from it and re-implemented them into a new track. It has a similar chord progression, and in ways of instrumentation it has the harpsichord as the main instrument, oboe, deep piano, triangle, and the "tick tock tick tock" woodblocks that are the eternal harbringer of her courtroom judgment.
+
+    After I first completed the song, I noticed that the track was kind of short. That's when I came up with the idea for the second part of the piece - a reprise of [[Theme|"Theme"]] from the Alternia album. This shows that Terezi has another side to her beyond her devious Alternian judgment: She truly cares about her friends, so much that she has a certain level of tender emotion that almost puts Karkat to shame. I'm not sure if the bifurcation of the piece worked really well as a faux videogame track, but I think it fits her personality.
+
+    <i>Homestuck:</i> (original track art)
+
+    <img src="media/misc/terezis-theme.png" width="300">
+---
+Track: The Lemonsnout Turnabout
+Artists:
+- Toby Fox
+Duration: '2:23'
+URLs:
+- https://homestuck.bandcamp.com/track/the-lemonsnout-turnabout-2
+- https://youtu.be/pvgyx0w8B1E
+Cover Artists:
+- rose-ebottles
+Cover Art File Extension: png
+Commentary: |-
+    <i>Toby Fox:</i> (booklet commentary)
+
+    (GC's Courtroom Scene)
+
+    Terezi (played by the harpsichord) finds Lemonsnout (played by the oboe) at the scene of the crime, red-handed. Or red-snouted, whichever. There is a panning shot to the courthouse which looms ominously, covering the horizon.
+
+    Later, in the courtroom, Lemonsnout weeps for his innocence as the infernal grandfather clock tick-tocks in the background. It's the kind of ticking that resonates with a man's heartbeat. It resonates.
+
+    Tick tick.
+
+    But will the jury listen to a man like that? SUSPENSE.
+
+    Lemonsnout's weeping proves to be fruitless. The trial begins and Terezi refutes his alibi, the evidence on his side falls through, and it looks as if Lemonsnout is deservedly doomed.
+
+    However, a glimmer of hope appears - but it appears only to be swiftly extinguished by Terezi's quick wit and sharp tongue (he really does taste like lemons).
+
+    Lemonsnout then goes mad, screaming of his innocence until he is forced to concede. ORDER IN THE COURT. ORDER, the judge yells. LAW. LAW!
+
+    Fortunately, the judge decides that fate will give Lemonsnout one last chance. Terezi flips the coin, walking slowly towards the now-shaking Lemonsnout. The verdict is observed:
+
+    JUSTICE IS BLIND, YOU FOOL!!!
+
+    (Lemonsnout screams as he is thrown out the window.)
+
+    THE END
+
+    <i>Homestuck:</i> (original track art)
+    <img src="media/misc/the-lemonsnout-turnabout.png" width="300">
+---
+Track: Theme
+Artists:
+- Toby Fox
+Duration: '1:28'
+URLs:
+- https://homestuck.bandcamp.com/track/theme-2
+- https://youtu.be/S2Pr-_j0qcc
+Cover Artists:
+- Sollay
+Cover Art File Extension: png
+Sheet Music Files:
+- Title: Sheet music by Gamehunter
+  Files:
+  - 'Theme - Gamehunter.pdf'
+MIDI Project Files:
+- Title: MIDI by Unknown
+  Files:
+  - 'Theme - Unknown.mid'
+Commentary: |-
+    <i>Toby Fox:</i> (booklet commentary)
+
+    (Alternia Theme)
+
+    Not the theme to Hivebent. I made this before we had seen the trolls and how brutal they are. So it's overwhelmingly bittersweet and heartfelt. Entirely inappropriate.
+
+    Sorry.
+
+    That's the end.
+
+    <i>Homestuck:</i> (original track art)
+    <img src="media/misc/theme.jpg" width="300">
+---
+Section: Music from video games
+---
+Track: A Bad Dream
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '1:25'
+URLs:
+- https://youtu.be/ZfmZdsoJYmI
+---
+Track: Aria di Mezzo Carattere
+# JP: アリア ("Aria")
+# Official release:
+#   FINAL FANTASY VI ORIGINAL SOUND VERSION
+#   ファイナルファンタジーVI オリジナル・サウンド・ヴァージョン
+# Reference:
+#   https://vgmdb.net/album/40
+#   https://finalfantasy.fandom.com/wiki/Aria_di_Mezzo_Carattere
+Artists:
+- Final Fantasy
+- Nobuo Uematsu
+- Yoshinori Kitase
+Duration: '3:57'
+URLs:
+- https://www.youtube.com/watch?v=MLHR9ltzuWM
+---
+Track: Boy Meets Girl
+# JP: ボーイ ミーツ ガール (BOY MEETS GIRL)
+# Official release:
+#   マザー2 ギーグの逆襲
+# Reference:
+#   https://vgmdb.net/album/800
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '2:19'
+URLs:
+- https://youtu.be/kc9yO4giTog
+---
+Track: Cave Theme 1
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '1:02'
+URLs:
+- https://youtu.be/s9ze7BJPdw4
+---
+Track: Choose a File
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '1:10'
+URLs:
+- https://youtu.be/CYzTLzhnMLM
+---
+Track: Dream Maze
+# Most often known as "Deeper into Ness's Subconscious" but for some reason in the official release it's titled differently.
+# JP: 夢の迷路
+# Official release:
+#   マザー2 ギーグの逆襲
+# Reference:
+#   https://vgmdb.net/album/800
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '1:37'
+URLs:
+- https://youtu.be/YM75br4y4Z0
+---
+Track: Holding Back Tears
+# JP: パワー
+# Official release:
+#   涙をこらえて
+# Reference:
+#   https://vgmdb.net/album/34136
+Artists:
+- Final Fantasy
+- Ryuji Sasai
+Duration: '1:18'
+URLs:
+- https://youtu.be/5aX4H1tQ3Kc
+---
+Track: Maya Fey - Turnabout Sisters 2001
+# JP: 綾里真宵　～逆転姉妹のテーマ 2001
+# Official release:
+#   逆転裁判＋逆転裁判２　オリジナル・サウンドトラック
+# Reference:
+#   https://vgmdb.net/album/2600
+Artists:
+- Ace Attorney
+- Masakazu Sugimori
+Contributors:
+- Naoto Tanaka (arrangement)
+Duration: '2:41'
+URLs:
+- https://www.youtube.com/watch?v=upOhRRYVGkA
+---
+Track: Moonsong
+# The original Cave Story's soundtrack hasn't been officially released.
+Artists:
+- Cave Story
+- Daisuke Amaya
+URLs:
+- https://www.youtube.com/watch?v=q09KoR7g018
+---
+Track: Mother 3 Love Theme
+# From Mother 3, which had two arrangement soundtracks but no official release of the in-game GBA soundtrack.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+#   http://starmen.net/merchandise/music/m3cd.php
+Artists:
+- Mother
+- Shogo Sakai
+Duration: '1:10'
+URLs:
+- https://youtu.be/TyN4aGJVkKY
+---
+Track: Onett Theme
+# (See Eight Melodies, no official soundtrack release)
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=XKfXsTkA71I
+---
+Track: Synchrony
+Directory: synchrony-brandish-the-planet-buster
+Always Reference By Directory: true
+# JP: Synchrony
+# Official release:
+#   ミュージック・フロム・ブランディッシュ2 ザ・プラネット・バスター
+# Reference:
+#   https://vgmdb.net/album/3703
+Artists:
+- Brandish
+- Mieko Ishikawa
+Duration: '3:24'
+URLs:
+- https://youtu.be/WmRVCQufJsM
+---
+Track: Welcome, Me
+# Most often known as "Welcome Home" but for some reason in the official release it's titled differently.
+# JP: ウェルカムぼく
+# Official release:
+#   マザー2 ギーグの逆襲
+# Reference:
+#   https://vgmdb.net/album/800
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '0:55'
+URLs:
+- https://youtu.be/7TNIAxPPr0A
+---
+Section: Traditional music
+---
+Track: The One Horse Open Sleigh
+Artists:
+- James Lord Pierpont
+URLs:
+- https://www.youtube.com/watch?v=3CWJNqyub3o
+Lyrics: |-
+    Dashing through the snow
+    In a one-horse open sleigh
+    O'er the fields we go
+    Laughing all the way
+    Bells on bob tail ring
+    Making spirits bright
+    What fun it is to ride and sing
+    A sleighing song tonight! Oh!
+
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh! what fun it is to ride
+    In a one-horse open sleigh, hey!
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh what fun it is to ride
+    In a one-horse open sleigh!
+
+    A day or two ago
+    I thought I'd take a ride
+    And soon, Miss Fanny Bright
+    Was seated by my side
+    The horse was lean and lank
+    Misfortune seemed his lot
+    He got into a drifted bank
+    And then we got upsot
+
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh! what fun it is to ride
+    In a one-horse open sleigh, hey!
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh what fun it is to ride
+    In a one-horse open sleigh!
+
+    A day or two ago
+    The story I must tell
+    I went out on the snow
+    And on my back I fell
+    A gent was riding by
+    In a one-horse open sleigh
+    He laughed as there I sprawling lie
+    But quickly drove away, ah!
+
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh! what fun it is to ride
+    In a one-horse open sleigh, hey!
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh what fun it is to ride
+    In a one-horse open sleigh!
+
+    Now the ground is white
+    Go it while you're young
+    Take the girls tonight
+    and sing this sleighing song
+    Just get a bobtailed bay
+    Two forty as his speed
+    Hitch him to an open sleigh
+    And snap! you'll take the lead
+
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh! what fun it is to ride
+    In a one-horse open sleigh, hey!
+    Jingle bells, jingle bells
+    Jingle all the way!
+    Oh what fun it is to ride
+    In a one-horse open sleigh!
+Commentary: |-
+    <i>Niklink:</i> (wiki editor)
+    Best known under its incipit name "Jingle Bells".
+---
+Section: Other music originating outside Undertale
+---
+Track: Amen, Brother
+Artists:
+- The Winstons
+Duration: '2:36'
+URLs:
+- https://www.youtube.com/watch?v=HrrWhCbZAyY
+Sampled Tracks:
+- check whosampled
+---
+Track: Doctor
+Artists:
+- Buzinkai
+- Clark Powell
+Contributors:
+- Michael Vallejo (percussion)
+Cover Artists:
+- Homestuck
+Duration: '2:37'
+URLs:
+- https://homestuck.bandcamp.com/track/doctor-3
+- https://youtu.be/ve7TB0FggaY
+Referenced Tracks:
+- Doctor (Original Loop)
+Sheet Music Files:
+- Title: Sheet music by FlamingTROUT
+  Files:
+  - 'Doctor - FlamingTROUT.pdf'
+MIDI Project Files:
+- Title: MIDI by MrCheeze
+  Files:
+  - 'Doctor - MrCheeze.mid'
+- Title: MIDI by Unknown
+  Files:
+  - 'Doctor - Unknown.mid'
+- Title: MIDI by FlamingTROUT (piano)
+  Files:
+  - 'Doctor - FlamingTROUT (piano).mid'
+- Title: MIDI by Unknown (piano)
+  Files:
+  - 'Doctor - Unknown (piano).mid'
+Commentary: |-
+    <i>Clark Powell:</i>
+
+    Doctor was originally by Buzinkai and then a now non-active member Michael Vallejo added a few bits of percussion to it. I then put together a larger mix of the tune with shinier production and a glockenspiel tag, and this was the version Andrew used in the end.
+
+    <i>Buzinkai:</i>
+
+    Doctor was written before Homestuck, actually. The only thing I can really remember was that Super Smash Bros Brawl came out right before I finished it. The original loop (which is not the one specifically heard in the comic, but was included in the album release) was directly inspired by music from Cave Story, and I was trying to at the time musically embody how I felt at the time, I think. Though it never seems to come out exactly as I plan it, I enjoyed the results. I will say that I cannot truly believe how many people have remixed it.
+
+    The arpeggio part at the end goes between the left, both, and right speakers sequentially. I was too lazy to set the channel settings manually, so I did each note on a different instrument, which is set to each speaker channel. Not many people know that, and I think it actually made it a living hell for remixers who got a hold of the original file.
+
+    <i>(On March 17, 2013, <a href="https://old.reddit.com/r/homestuck/comments/1afvkb/hi_im_george_buzinkai_writer_of_the_doctor_and/">Buzinkai ran an AMA - "Ask Me Anything" - on the r/Homestuck subreddit.</a> Select responses are listed below; you can visit the full AMA on the <a href="https://web.archive.org/web/20230625011746/https://old.reddit.com/r/homestuck/comments/1afvkb/hi_im_george_buzinkai_writer_of_the_doctor_and/">Wayback Machine</a> as well. Banner art below is from a <a href="https://www.gofundme.com/f/buzinkai">fundraiser</a> ran for their first album in 2016.)</i>
+
+    <img src="media/misc/buzinkai-banner.png" width="720">
+
+    <b>Hi, I'm George Buzinkai, writer of The Doctor and other such songs. AMA?</b>
+
+    Howdy. I'm bored as hell, because my house recently burnt down and I lost sort of everything. How are you?
+
+    > <i>defenestratedplane:</i> "AtrusRand" - Msyt fan? :)
+    > I love Doctor, it's one of my favorite songs in Homestuck, and I will never get sick of remixes of it. Do you like the remixes? Will you be doing anymore music for Homestuck?
+    > I'm very sorry to hear about your house. I hope you're doing okay.
+
+    Actually, for a little while, after I submitted it, I was unaware of where Doctor was going to go. It was one of those moments where I went, "Whoa, someone remixed my song?" And then things got crazy. I get the feeling when you hear yourself played back on audio sometimes when I hear the remixes.
+
+    And yes, I am an adamant MSYT fan.
+
+    > <i>BufferUnderpants:</i> Could we please be nicer? More empathetic, less snarky? He's a very important contributor to the community and he got dealt a rough deal recently.
+
+    It's a bit easy to say, "I have nothing."
+
+    But my house, which I lived in for 27 years, was burnt to the ground, and I was literally without anything of my past. Keyboards, instruments, all were taken in an inferno which haunts my damned memories night after night.
+
+    > <i>BufferUnderpants:</i> That's... horrible. How long ago was this? Did you live with your family there?
+    > I've never been very much keen to holding attachment to things, maybe now I have been acquiring the habit, but even so, the shock of everything suddenly turning to smoke must be huge. It must have felt unreal.
+    > What have you been doing in the meantime?
+
+    I saved my family, and we're currently in a temporary home. I find that I attach to things and people a lot more now. Because I'm so afraid of losing memories, things, and people.
+
+    I'm actually trying to draw. I went to college for a little while for Traditional Animation, but the college turned out to be a scam, so I was screwed.
+
+    > <i>Stillhopefull:</i> My condolences for your lost everything. Thanks for making music for Homestuck, I appreciate the act of fleshing out a world in music, and I appreciate you for doing this for us. Thank you.
+    > As for a question, what's it like working with Andrew Hussie? Is he easy to talk to? Hard to work with? Do your personalities go well together?
+    > What's your favorite Homestuck song?
+    > Do you have any writing rituals to get you in the mood for writing? Like, do you listen to any special music, or read certain parts of stuff?
+    > If you had to choose between dying tomorrow or dying in 1000 years, which would choose and why?
+
+    I've never personally spoke to him. Except through E-mail. Other than that, I've never really been too involved with the project. He's enigmatic, but I imagine if we got together, we could do some cool stuff.
+
+    My favorite homestuck song is obviously Showtime (Original Mix), which inspired me to write a remix and get involved.
+
+    I listen to Tchaikovsky and Nobuo Uematsu, I attempt to push emotion through the music to the listener. When I find things which I feel the composer was trying to push into me, I get overwhelmed.
+
+    I would say dying in 1000 years. Because my lifetime is nowhere near how long I think it will take me to really understand who I am.
+
+    > <i>Crono30067:</i> Did you know things about homestuck before we did?
+
+    Nothing was ever told to us, except when sometimes Andrew would say, "Something is coming up."
+
+    > <i>Niklink:</i> Buzinkai would know the difference from 'The Doctor' and 'Doctor', due to where the title of that song comes from.
+
+    I wrote Doctor at an interesting time. One where I wanted to convey my emotions through music. I was inspired by [[track:moonsong]] from Cave Story, and I still use PXTone, which is a music software developed by Pixel.
+
+    The Doctor was my name, a reference to Doctor Who, and The Doctor from cave story.
+
+    > <i>(deleted user)</i> I KNEW that song was familiar somehow! Moonsong was probably my favorite tune in that soundtrack :-D It also fits in very well with the Earthbound aesthetic that Homestuck's inspired by.
+
+    Earthbound and Cave Story are both my favorite OSTs. As well as a little bit of Nobuo.
+
+    > <i>Niklink:</i> Yeah dude's legit. Or a really weird George Buzinkai fan.
+    > So, last we heard your life was too busy to really get back into music. Other than Firefly on Vol. 9, there isn't really any activity form you. Are you planning to get back into the whole Homestuck music thing? Are you even keeping up with Homestuck?
+
+    I do watch here and there. It's quite the thing to really keep track of. I'm trying to do more personal pursuits lately. I'm trying to actually come out with a comic some time in the future.
+
+    > <i>StrmSrfr:</i> I was just thinking this morning (before I saw this; weird coincidence) that I'd love to try my hand at doing a remix or derivative composition of "Doctor", and maybe put it up for people to critique.
+    > How would you feel about me (or anyone else for that matter) doing a thing like that?
+
+    I love creativity. If you're inspired. Feel free!
+
+    > <i>Newtonyd:</i> How'd your house burn down?
+
+    An electrical short. I discovered it and tried to do what I could in such a situation. I tried to put it out with my coat, then I tried a bucket of water, but it's winter here, so they didn't work.
+
+    Honestly, there are tons of things I wish I could do differently.
+
+    > <i>CatnipMatespriteship:</i> im broke but what i can do is this... <i>hugs~&lt;3</i>
+
+    Means more than money to me.
+
+    > <i>FridgeLogic42:</i> Have you listened to any of the Homestuck albums? What's your favorite?
+
+    I've listened to a few, they are quite good, though my favorite is the songs they made for the midnight crew. Very interesting stuff.
+
+    > <i>HyperShadic9189:</i> Do you just make the music whenever, and Andrew uses it, or does he tell you to make music fitting for an event?
+
+    I generally throw up a few songs when I get the chance to actually write them, which has not exactly been for a little while. Sometimes the music influences the work, perhaps, but the work infuenced the music... it's sort of oddly complicated.
+
+    > <i>thetacriterion:</i> Doctor is still my favorite track in all of Homestuck, despite some pretty steep competition. Still gives me chills. (And yeah, I'm referring to [[track:doctor-original-loop|the original]], not the remix.)
+    > As for your house... while I'm getting major sympathy pains just thinking about everything you lost, I'm mainly glad to hear that you and your family are safe. I'm hoping for the best for you. :c
+
+    Thank you for everything. I hope to write more wonders in the future.
+
+    > <i>[deleted user]</i> my one question is why "rabbit-mouse"
+
+    It's a long story, but generally, I'm trying to get into the field of traditional animation. My two favorite movies are Who Framed Roger Rabbit and Secret of NIMH.
+
+    > <i>gburnaman:</i> Im absolutely lousy at AMAs and can never think of any decent questions but I will say: Doctor is one of my favorite motifs... ever. It stands up on its own in a way not a lot of HS other songs do, and I never tire of hearing remixes. I heard Doctor right about the time I decided to stick with Homestuck instead of backing away slowly and calling the police.
+
+    > <i>statue_junction:</i> Hey, I don't really have any questions but I just wanted to tell you that Doctor is, without exception, my favorite song in Homestuck. Which is saying quite a lot. It encapsulates the atmosphere of the comic better than anything else, and in my mind represents my favorite character (John). I think I've listened to it more times than anything I have on Spotify or iTunes, 'cause I'll play it on loop as I write or read or fuck around on the internet. It just really puts me in the right kind of mindset to be creative. So... thanks for making such a kick-ass song!
+
+    I originally meant the song to encompass my own emotions at the time, according to Andrew Hussie, it "sat on his desktop for a while" before he decided where to place it.
+    My music has taken me places I've never thought possible.
+
+    > (<i>MrCheeze:</i> It should be mentioned that statue_junction and Niklink are like the two impossible to please guys, praise from both = very good job.)
+
+    I want to personally thank everyone who visited my site and donated. I will be sending out personal responses to the donators, letting them know how their money will be used to help get the music production back in full gear.
+
+    I can't thank you all enough for this!
+
+    <i>emil:</i> ([Tumblr](https://emil.tumblr.com/post/666266192199172096))
+
+    i feel like people forget that homestuck had a lot of talented musicians working on it, not just toby
+
+    this bothers me mostly because one of the most iconic songs, Doctor, was composed by a trans person (she/her, her name was [Usagi] Buzinkai, im not sure how she identified beyond her pronouns) who passed away in 2018. for all of homestuck’s many flaws i think it’s okay and good to celebrate art like this that came from it
+
+    (edited to include her correct name)
+
+    <i>blunttheking:</i> ([Tumblr](https://www.tumblr.com/blunttheking/666268683781521408/homestuck-doctor-i-know-i-already-reblogged))
+
+    i know i already reblogged this but here's Doctor so you can remind yourself what a great song it is
+
+    *[Bandcamp embed]*
+
+    <i>Clark Powell:</i> ([Tumblr](https://plazmataz.tumblr.com/post/669762656269484032/the-song-doctor-was-a-collaboration-piece-between))
+
+    the song Doctor was a collaboration piece between me and Buzinkai. They made the super lush chiptune that’s the backbone of the song, and I arranged it with other instruments to try and really bring it to life. As one of the first songs either of us finished for the comic in those early days, we were both so proud of it ☺️
+
+    Rest easy, George. Your music still plays.
+---
+Track: Doctor (Original Loop)
+Artists:
+- Buzinkai
+Cover Artists:
+- Homestuck
+Duration: 0:54
+URLs:
+- https://homestuck.bandcamp.com/track/doctor-original-loop-2
+- https://www.youtube.com/watch?v=o0Um9OiP8dU
+Commentary: |-
+    <i>Buzinkai:</i> (<a href='https://www.youtube.com/watch?v=EsG71P_zEIE'>'Doctor' Explained</a>)
+    *Partial transcript:*
+    Hello internet, my name is George Buzinkai. I am one of the musicians, well, I was one of the musicians for Ms Paint Adventures. I wrote such songs as Endless Climb, Imp Strife Mix? Strife Imp Mix I think and of course the wildly remixed Doctor, which I have open in the original software I wrote it in.
+    I'm about to show you a few things you didn't know about the song Doctor, and I'm going to show you a few things people get wrong when remixing it. I don't find a problem with it because half the time I don't even notice it but sometimes there are some things. I think some people have listened to the song by ear and have attempted to write a remix using that and I get requests a lot to post a MIDI of this. Due to the fact I wrote it in PxTone that's really hard to do. There is also another reason, the song was built in such a way that it's really hard to give certain things from the song and I'll explain that as we go.
+    First things first all of the instruments except for the main three main three notes of the main chords which you know were written with instruments from the original [[artist:cave-story|Cave Story]]. If you listen to the drum track that's the original Cave Story drum soundtracks. All the other instruments are also from Cave Story. When I was originally writing the song I always wrote top down so believe it or not the first thing I wrote was the bassline. Then as I was going I added the drums, and from there I decided I should add an extra bassline. Once I added the extra bassline I decided it would be a good time to write an actual, you know, melody line. I was originally planning on using strings but I accidentally put in square waves and I fell in love with it right after I did it and I'm like "I can't switch this to strings now so I'm just gonna leave it as it is."
+    Now the rectangle waves [Note: Referring to the main melody of the song.] I'm focusing on right now are written in a really weird way, not one that I would normally use for writing on a piano or something like that. I wrote the top note first and I wrote the other notes just to harmonize with it. From there I wrote the second note. I obviously didn't write the third one yet, I just wanted to make sure it sounded right. From there I wrote the third note which was kind of a crapshoot but you know, why not. Now, the weird part was once I got to the part where it starts the arpeggiation I already had the instruments here but the problem was I had them on different stereo channels. Like this one was on the left speaker this one was on the right speaker and this one's in the center.
+    However, the problem was once I got to the arpeggiation I really didn't want to have one track doing the arpeggiation and have to switch each note on the pan menu here. I really didn't want to do that so I was lazy and put each note on a different instrument to make the panning effect so if you play just with the top note this is what it sounds like. Believe it or not I didn't write this first and then write the second one and then write the third one under that because that would've been insane and I think that probably would've made me look a lot better than I actually am. So what I did was I wrote the actual whole thing on the one track on the top and then moved each note manually by having the top one highlighted with all the notes and then just moving it and erasing it from the top.
+    Also, this is the part of the song [Note: Referring to the melody that starts at 0:27,] that is most often screwed up in remixes and I don't have a problem with that, this is really hard. This is not an easy thing. I've tried. I can play the whole beginning of the song on piano. I can't play this part at all. It's insane, and the reason for this is the notes go all over the place. The reason for that is because I would take a regular chord and then I would put the notes maybe down an octave or just find another note that would fit. I wanted to stretch this chord out as far as I could and still make it fit to the key, which is kind of what made it so weird in the beginning and actually if you look about where my mouse is you can see that this was just one line that just went down. So, since we have you here, I can actually slow this down for you so you can hear what it sounds like slowly.
+    I don't expect anyone to play that at full speed. I've actually seen someone play about the right thing at full speed and that still freaking amazes me. I wouldn't expect that kind of thing. I thought that was unplayable. Also, this may seem lazy now, but it's probably lazy then too, but I copy and pasted this whole section and then added an extra melody line to make it interesting.
+    Now here's a secret, why this song is called Doctor, and what this song is based on. Believe it or not this song is actually based on [[track:moonsong|Moonsong]] and Mischievous Robot from [[artist:cave-story|Cave Story]]. I wrote this song right shortly after Super Smash Brothers Brawl came out for the Wii. I know because I was playing that while I wrote it. There is a constant tone much like in Mischievous Robot that plays in the background and it's actually supposed to be a heartbeat monitor. This actually just stays constant the entire time (tone changes) except for when it changes right there (tone changes again) yeah it shows you how much I know about my own music (tone switches to alternating between two different tones.) But I try to keep that a constant side beat in the back there.
+    We're here to talk about music so if you want to see any more of my music in this fashion, perhaps with a little more in-depth viewer, if you think there's something I missed or something that you're curious about with the music please let me know. I'm actually really open to talking about it, I think it's kind of cool that it went this far. I'm still actually listening to all the freaking remixes of this song that are online right now. You have to understand that I'm completely blown away.
+---
+Section: Other works originating outside of Undertale
+Color: '#8ccaf1'
+---
+Track: Flowey's Laugh
+Artists:
+- Warner Bros.
+Duration: 0:05
+URLs:
+- https://www.youtube.com/watch?v=7IJMEd8mAIo
+Commentary: |-
+    <i>Undertale Wiki:</i>
+    (<a href="https://undertale.fandom.com/wiki/Flowey">Fandom</a>)
+    Flowey's laugh is not a new asset and can be recognized in other media. It was originally a Warner Bros. sound effect mostly used in Pink Panther cartoons and has appeared in titles such as the PlayStation title <a href="https://www.youtube.com/watch?v=2aBa-iQSkxc">Tomba!</a> and the Homestuck soundtrack The Lordling, also by Toby Fox.

@@ -1,0 +1,20 @@
+Homepage: Homepage
+Sidebar Content: |-
+    <h1>Get involved!</h1>
+    - [Send feedback, fixes, and suggestions!](https://hsmusic.wiki/feedback/)
+    - [Join the community Discord server!](https://hsmusic.wiki/discord/)
+Navbar Links:
+- '[[listing-index:-|Listings]]'
+# - '[[interwiki:hsmusic|HSMusic Wiki]]'
+# - '[[interwiki:hsmusic:about|About & Credits]]'
+# - '[[interwiki:hsmusic:feedback|Feedback & Suggestions]]'
+# - '[[interwiki:hsmusic:discord|Discord]]'
+---
+Row: Official Discography
+Type: albums
+Display Style: carousel
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+Albums:
+- UNDERTALE Soundtrack
