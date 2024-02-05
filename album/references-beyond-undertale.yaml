@@ -4,7 +4,34 @@ Groups:
 - Additional Tracks
 Color: '#f5fc8e'
 ---
+# TODO: handle these properly!
+Section: Unreleased Tracks
+---
+Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=grGnVeKCcvc
+---
+Track: Gaster's Theme
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Directory: gasters-theme
+Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=CFn8xs157Gw
+---
 Section: Miscellany by Toby Fox
+---
+Track: Nightmare Knight
+Artists:
+- Toby Fox
+Duration: '4:30'
+URLs:
+- https://www.youtube.com/watch?v=t43ZIrsfof0
 ---
 Track: Noisemaster Theme
 Artists:
@@ -25,14 +52,6 @@ MIDI Project Files:
 - Title: MIDI by IronInvoker47
   Files:
   - 'Patient - IronInvoker47 (piano).mid'
----
-Track: Room of Dog
-# No official release, duration is from the in-game audio loop.
-Artists:
-- 'Toby Fox'
-Duration: '0:35'
-URLs:
-- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Track: Terezi's Theme
 Artists:
@@ -279,6 +298,15 @@ Duration: '1:10'
 URLs:
 - https://youtu.be/TyN4aGJVkKY
 ---
+Track: One Fateful Night
+# (See Eight Melodies, no official soundtrack release)
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+URLs:
+- https://www.youtube.com/watch?v=bQzYJBTBVEc
+---
 Track: Onett Theme
 # (See Eight Melodies, no official soundtrack release)
 Artists:
@@ -319,6 +347,40 @@ URLs:
 - https://youtu.be/7TNIAxPPr0A
 ---
 Section: Traditional music
+---
+Track: Das Lied vom Musikanten
+Artists:
+- Traditional
+URLs:
+- https://www.youtube.com/watch?v=3k7gyQVF0bE
+Lyrics: |-
+    Ich bin ein Musikant, ich bin ein Musikant! (<i>I am a musician, I am a musician!</i>)
+    Ich kann auch spielen auf meiner Geige (<i>I can also play on my violin</i>)
+    Di de schum schum schum, di de schum schum schum
+    Auf meiner Geige (<i>On my violin</i>)
+
+    Ich bin ein Musikant, ich bin ein Musikant! (<i>I am a musician, I am a musician!</i>)
+    Ich kann auch spielen auf meiner Clarinette (<i>I can also play on my clarinet</i>)
+    Pä de wäpp wäpp wäpp, pä de wäpp wäpp wäpp
+    Auf meiner Clarinette (<i>On my clarinet</i>)
+
+    Ich bin ein Musikant, ich bin ein Musikant! (<i>I am a musician, I am a musician!</i>)
+    Ich kann auch spielen auf meiner Flöte (<i>I can also play on my flute</i>)
+
+    Auf meiner Flöte (<i>On my flute</i>)
+
+    Ich bin ein Musikant, ich bin ein Musikant! (<i>I am a musician, I am a musician!</i>)
+    Ich kann auch spielen auf meiner Guitarre  (<i>I can also play on my guitar</i>)
+    Tim tim ter lim, tim tim ter lim
+    Auf meiner Guitarre (<i>On my guitar</i>)
+
+    Ich bin ein Musikant, ich bin ein Musikant! (<i>I am a musician, I am a musician!</i>)
+    Ich kann auch spielen auf meiner Fagott (<i>I can also play on my bassoon</i>)
+
+    Auf meiner Fagott (<i>On my bassoon</i>)
+Commentary: |-
+    <i>Niklink:</i> (wiki editor)
+    Title is lit. "The song of the musician". Some versions are known as "Ich bin ein Musikanten", lit. "I am a musician". This folk song originated in northwestern Germany sometime in the early 19th century. As with most folk music, it evolved from a shifting amalgamation of various earlier melodies— one notable one being a 1761 melody by Leopold Mozart, father of Wolfgang Amadeus Mozart. It's since spread in a variety of forms throughout eastern Europe, and in the 21st century, through China, Korea, and most importantly Japan, where it became a popular children's song. Lyrics here are based on a 19th century songbook.
 ---
 Track: The One Horse Open Sleigh
 Artists:
@@ -401,6 +463,33 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Best known under its incipit name "Jingle Bells".
 ---
+Track: Yama No Ongakuka
+Artists:
+- Katsuhisa Hattori (arrangement)
+- Takatomo Kurosawa (lyrics)
+URLs:
+- https://www.youtube.com/watch?v=L06HFBrNhXk
+Referenced Tracks:
+- Das Lied vom Musikanten
+Lyrics: |-
+    Watasha on ga ku kayama no ko risu (<i>I'm a musician, a mountain squirrel</i>)
+    Jōzu ni baiorin o hīte mimashou (<i>Let's find a violin</i>)
+    Kyukyukyukkyukkyukkyukyukyukkyukkyukkyukyukyukkyukkyukkyukyukyukkyukkyu
+    Ikagadesu (<i>How is it?</i>)
+
+    Watasha on ga ku ka yama no usagi (<i>I'm a musician, a mountain rabbit</i>)
+    Jōzu ni piano o hīte mimashi yō (<i>Let's play the piano well</i>)
+    Popoporonporonporon popoporonporonporon popoporonporonporon popoporonporonporon
+    Ikagadesu (<i>How is it?</i>)
+
+    Watasha on ga ku ka yama no kotori (<i>I'm a musician, a mountain bird</i>)
+    Jōzu ni furūto fuite mimashou (<i>Let's blow the flute</i>)
+    Pipipippippippipipippippippipipippippippipipippippi
+    Ikagadesu (<i>How is it?</i>)
+Commentary: |-
+    <i>Niklink:</i> (wiki editor)
+    Original title is "山の音楽家" (lit. Mountain Musicians). The earliest known version was played on Japanese public broadcaster NHK from April-May 1964, however the URL is for a different cover of the song. The provided lyrics are for the linked version as well.
+---
 Section: Other music originating outside Undertale
 ---
 Track: Amen, Brother
@@ -411,6 +500,18 @@ URLs:
 - https://www.youtube.com/watch?v=HrrWhCbZAyY
 Sampled Tracks:
 - check whosampled
+---
+Track: Casio VL-1 Demo
+Artists:
+- Unknown Artist
+Duration: '1:16'
+URLs:
+- https://www.youtube.com/watch?v=yMMnj5FfgHU
+Referenced Tracks:
+- Yama No Ongakuka
+Commentary: |-
+    <i>Niklink:</i> (wiki editor)
+    This demo was reused for many other Casio devices. Manuals and literature sometimes refer to it as "German Folk Song" (partially correct) or "Unterlanders Heimweh" (lit. "Lowlander's Homesickness") (which is a different German folk song, although later Casio devices actually used the correct song instead). Japanese materials correctly refer to it as a version of "Yama No Ongakuka".
 ---
 Track: Doctor
 Artists:
@@ -603,6 +704,20 @@ Commentary: |-
     I don't expect anyone to play that at full speed. I've actually seen someone play about the right thing at full speed and that still freaking amazes me. I wouldn't expect that kind of thing. I thought that was unplayable. Also, this may seem lazy now, but it's probably lazy then too, but I copy and pasted this whole section and then added an extra melody line to make it interesting.
     Now here's a secret, why this song is called Doctor, and what this song is based on. Believe it or not this song is actually based on [[track:moonsong|Moonsong]] and Mischievous Robot from [[artist:cave-story|Cave Story]]. I wrote this song right shortly after Super Smash Brothers Brawl came out for the Wii. I know because I was playing that while I wrote it. There is a constant tone much like in Mischievous Robot that plays in the background and it's actually supposed to be a heartbeat monitor. This actually just stays constant the entire time (tone changes) except for when it changes right there (tone changes again) yeah it shows you how much I know about my own music (tone switches to alternating between two different tones.) But I try to keep that a constant side beat in the back there.
     We're here to talk about music so if you want to see any more of my music in this fashion, perhaps with a little more in-depth viewer, if you think there's something I missed or something that you're curious about with the music please let me know. I'm actually really open to talking about it, I think it's kind of cool that it went this far. I'm still actually listening to all the freaking remixes of this song that are online right now. You have to understand that I'm completely blown away.
+---
+Track: unreeeal superhero 3
+Artists:
+- REZ
+- artist:kenet
+Duration: '1:58'
+URLs:
+- https://www.youtube.com/watch?v=9STiQ8cCIo0
+- https://modarchive.org/index.php?request=view_by_moduleid&query=149252
+Commentary: |-
+    <i>Kenët:</i>
+    Done in coop with my fellow mate Rez to express our love to our sexy friend Unreal :)
+
+    On a side note, i would like to thanks A LOT all musicians around who made us a real pleasure in making a remix of this tune... You ROX!
 ---
 Section: Other works originating outside of Undertale
 Color: '#8ccaf1'

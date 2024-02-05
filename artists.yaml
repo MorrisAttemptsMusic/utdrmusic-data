@@ -66,13 +66,53 @@ URLs:
 - https://www.youtube.com/@jebbjabroni
 - https://twitter.com/JeberosE
 ---
+Artist: Katsuhisa Hattori
+---
 Artist: Keiichi Suzuki
+---
+Artist: Kenët
+Directory: kenet
+URLs:
+- https://www.youtube.com/@kenetdeluxe
+- https://twitter.com/KenetDeluxe
 ---
 Artist: Kirvia
 URLs:
 - https://kirvia.tumblr.com/
 ---
+Artist: Laura Shigihara
+URLs:
+- https://laurashigihara.bandcamp.com/
+- https://twitter.com/supershigi
+- https://www.laurashigihara.com/
+---
+Artist: Lena Raine
+Aliases:
+- kuraine
+URLs:
+- https://radicaldreamland.bandcamp.com/
+- https://twitter.com/kuraine
+- https://lena.fyi/
+- https://youtube.com/@LenaRaine
+---
 Artist: leo60228
+---
+Artist: Marcy Nabors
+Aliases:
+- Mark Nabors
+- Shadolith
+- Steamlord313
+URLs:
+- https://shadolith.bandcamp.com/
+- https://soundcloud.com/shadolith
+- https://shadolith.tumblr.com
+- https://twitter.com/Shadolith
+Dead URLs:
+- https://www.deviantart.com/steamlord313  # unused since 2011
+- https://steamlord313.newgrounds.com      # unused since 2011
+- https://steamlord313.tumblr.com/         # dead
+- https://mossspores.tumblr.com            # alive, more personal
+# see: https://mossspores.tumblr.com/post/701229832891154432/hey-new-friends-this-is-my-main-blog-just-for
 ---
 Artist: Masakazu Sugimori
 ---
@@ -88,6 +128,13 @@ Artist: Niklink
 ---
 Artist: Nobuo Uematsu
 ---
+Artist: REZ
+URLs:
+- https://chiptune.bandcamp.com/
+- https://soundcloud.com/chiptune
+- https://twitter.com/chiptune
+- http://chiptune.com
+---
 Artist: rose-ebottles
 Dead URLs:
 - https://rose-ebottles.tumblr.com/
@@ -102,6 +149,8 @@ Aliases:
 URLs:
 - https://sollay-b.tumblr.com/
 ---
+Artist: Takatomo Kurosawa
+---
 Artist: The Winstons
 ---
 Artist: Toby Fox
@@ -114,6 +163,10 @@ URLs:
 - https://twitter.com/tobyfox
 - https://toby.fangamer.com/
 - https://fwugradiation.tumblr.com
+---
+Artist: Traditional
+Context Notes: >-
+    This is a catchall artist entry to list folkloric music of unknown provenance. They're almost certainly based on other contemporaneous music that has been lost to time, and were never put to paper by someone verifiably claiming to be the original creator.
 ---
 Artist: Undertale Wiki
 URLs:
