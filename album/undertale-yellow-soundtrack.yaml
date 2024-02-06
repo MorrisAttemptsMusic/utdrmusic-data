@@ -7,14 +7,19 @@ URLs:
 Color: '#ffff00'
 Cover Art File Extension: png
 Cover Artists:
-- Unknown Artist
+- MasterSwordRemix
 Banner Artists:
-- Figburn
-Banner Dimensions: 1100x318
+- Undertale Yellow
+- leo60228 (edits for wiki)
+Banner Dimensions: 1100x175
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Wallpaper File Extension: png
 Wallpaper Artists:
-- Undertale Yellow
+- Figburn
+- leo60228 (edits for wiki)
 ---
 Track: Once Upon a Truthful Time
 Artists:

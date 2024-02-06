@@ -26,6 +26,9 @@ Banner Artists:
 - Jebb (edits for wiki)
 Banner Dimensions: 792x100
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Commentary: |-
     <i>Toby Fox:</i>
     Honestly, I did very little music hacking in this hack. It just feels like a lot because I did more than anyone else has ever done... ever. I had never music hacked (note-wise) before this hack, so it took me a while to get used to the system and get good at it, which is why the last boss song sounds the best and the early songs sound kind of crappy.

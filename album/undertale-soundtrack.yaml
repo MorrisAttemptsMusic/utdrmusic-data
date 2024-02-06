@@ -18,6 +18,9 @@ Banner Artists:
 - Niklink (edits for wiki)
 Banner Dimensions: 1100x191
 Banner File Extension: png
+Banner Style: |-
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
 Wallpaper Artists:
 - Toby Fox
 Wallpaper File Extension: png
