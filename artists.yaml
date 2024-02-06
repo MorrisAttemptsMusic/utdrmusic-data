@@ -39,9 +39,20 @@ URLs:
 ---
 Artist: Daisuke Amaya
 ---
+Artist: DYLZAL
+URLs:
+- https://youtube.com/@DYLZAL
+- https://twitter.com/DYLZAL
+---
+Artist: emBer
+---
 Artist: emil
 URLs:
 - https://emil.tumblr.com/
+---
+Artist: Figburn
+URLs:
+- https://twitter.com/figburn
 ---
 Artist: Final Fantasy
 ---
@@ -50,6 +61,11 @@ URLs:
 - https://flashygoodness.bandcamp.com/
 - https://twitter.com/flashygoodness
 - https://www.flashygoodness.com/
+---
+Artist: Glitchedpie
+URLs:
+- https://twitter.com/PieGlitched
+- https://glitchedpie.tumblr.com/
 ---
 Artist: Hirokazu Tanaka
 ---
@@ -116,17 +132,35 @@ Dead URLs:
 ---
 Artist: Masakazu Sugimori
 ---
+Artist: MasterSwordRemix
+URLs:
+- https://masterswordremix.bandcamp.com/
+- https://youtube.com/@MasterSwordRemix
+- https://twitter.com/MasterSwrdRemix
+---
 Artist: Michael Vallejo
 ---
 Artist: Mieko Ishikawa
 ---
 Artist: Mother
 ---
+Artist: MyNewSoundtrack
+URLs:
+- https://mynewsoundtrack.bandcamp.com/
+- https://soundcloud.com/my-new-soundtrack
+- https://twitter.com/MyNewSoundtrack
+- https://www.youtube.com/@MyNewSoundtrack
+---
 Artist: Naoto Tanaka
 ---
 Artist: Niklink
 ---
 Artist: Nobuo Uematsu
+---
+Artist: NoteBlock
+URLs:
+- https://www.youtube.com/@NoteBlock
+- https://twitter.com/NoteBlockRemix
 ---
 Artist: REZ
 URLs:
@@ -171,6 +205,10 @@ Context Notes: >-
 Artist: Undertale Wiki
 URLs:
 - https://undertale.fandom.com/
+---
+Artist: Undertale Yellow
+Context Notes: >-
+    For crediting visual elements that are lifted directly from Undertale Yellow.
 ---
 Artist: Unknown Artist
 Context Notes: >-
