@@ -62,6 +62,12 @@ URLs:
 - https://twitter.com/flashygoodness
 - https://www.flashygoodness.com/
 ---
+Artist: fluidvolt
+URLs:
+- https://fluidvolt.bandcamp.com/
+- https://soundcloud.com/fluidvolt
+- https://twitter.com/fluidvolt
+---
 Artist: Glitchedpie
 URLs:
 - https://twitter.com/PieGlitched
@@ -81,6 +87,13 @@ URLs:
 - https://soundcloud.com/jebbjabroni
 - https://www.youtube.com/@jebbjabroni
 - https://twitter.com/JeberosE
+---
+Artist: Joshua Morse
+URLs:
+- https://joshuamorse.bandcamp.com/
+- https://soundcloud.com/joshuamorse
+- https://twitter.com/joshuamorse
+- http://jmflava.com
 ---
 Artist: Katsuhisa Hattori
 ---
@@ -138,11 +151,31 @@ URLs:
 - https://youtube.com/@MasterSwordRemix
 - https://twitter.com/MasterSwrdRemix
 ---
+Artist: Maxo
+Aliases:
+- Max Coburn
+URLs:
+- https://maxo.bandcamp.com/
+- https://levelmusicmaxo.bandcamp.com/
+- https://soundcloud.com/maxo
+- https://soundcloud.com/maxoarchives
+- https://twitter.com/maxotunes
+- https://www.youtube.com/user/MaxoBrooklyn
+- https://www.patreon.com/maxo
+- https://maxo.audio/
+---
 Artist: Michael Vallejo
 ---
 Artist: Mieko Ishikawa
 ---
 Artist: Mother
+---
+Artist: Mouthless
+URLs:
+- https://mouthless.bandcamp.com/music
+- https://soundcloud.com/mouthless
+- https://www.instagram.com/mouthless_palfrey/
+- https://louispalfrey.com/
 ---
 Artist: MyNewSoundtrack
 URLs:
@@ -162,6 +195,16 @@ URLs:
 - https://www.youtube.com/@NoteBlock
 - https://twitter.com/NoteBlockRemix
 ---
+Artist: nysnamovois
+URLs:
+- https://mastodon.social/@nysnamovois
+Dead URLs:
+- https://twitter.com/nysnamovois
+---
+Artist: Quasar Nebula
+URLs:
+- https://hsmusic.wiki/feedback/
+---
 Artist: REZ
 URLs:
 - https://chiptune.bandcamp.com/
@@ -175,7 +218,28 @@ Dead URLs:
 ---
 Artist: Ryuji Sasai
 ---
+Artist: Shannon Mason
+Aliases:
+- Pongball
+URLs:
+- https://shannonmason.bandcamp.com
+- https://soundcloud.com/pongball
+- https://twitter.com/pongball
+- https://open.spotify.com/artist/6PqjcSps3Ue9AIPD4WCcuc
+- https://youtube.com/@Pongball
+- https://www.instagram.com/pongballmusic/
+- https://www.facebook.com/pongballmusic
+Dead URLs:
+- http://www.shannonaudio.com/
+---
 Artist: Shogo Sakai
+---
+Artist: sleepytimejesse
+URLs:
+- https://sleepytimejesse.bandcamp.com/
+- https://www.youtube.com/@sleepytimejesse
+Dead URLs:
+- http://www.sleepytimejesse.com/
 ---
 Artist: Sollay
 Aliases:
