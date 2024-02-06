@@ -17,8 +17,6 @@ Groups:
 Wallpaper Artists:
 - Toby Fox
 Wallpaper Style: |-
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
     background-position-y: 25%;
 Wallpaper File Extension: png
 ---
