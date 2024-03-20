@@ -45,6 +45,7 @@ Artists:
 - Toby Fox
 Duration: 0:59
 URLs:
+- https://fwugradiation.tumblr.com/post/33265379210/patient-not-gonna-use-this-for-anything
 - https://youtu.be/HNdCAUpmXws
 Referenced Tracks:
 - Doctor
@@ -52,6 +53,12 @@ MIDI Project Files:
 - Title: MIDI by IronInvoker47
   Files:
   - 'Patient - IronInvoker47 (piano).mid'
+Commentary: |-
+    <i>Toby Fox:</i> ([Tumblr](https://fwugradiation.tumblr.com/post/33265379210/patient-not-gonna-use-this-for-anything))
+
+    patient
+
+    not gonna use this for anything
 ---
 Track: Terezi's Theme
 Artists:
@@ -353,6 +360,17 @@ Artists:
 Duration: '2:11'
 URLs:
 - https://youtu.be/A_Gj-RJeeng
+---
+Track: Stage 7 (Kirby's Block Ball)
+# No official release (nor official arrangements, even)
+# Reference:
+#   https://vgmdb.net/product/8348
+Artists:
+- Kirby
+- Sukezo Ouyama
+- Ryoue Takagi
+URLs:
+- https://www.youtube.com/watch?v=YGBJAmTDKYI
 ---
 Track: Synchrony
 Directory: synchrony-brandish-the-planet-buster
