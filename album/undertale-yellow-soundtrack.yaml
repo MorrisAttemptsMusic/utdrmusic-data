@@ -180,6 +180,8 @@ Artists:
 Duration: '1:44'
 URLs:
 - https://www.youtube.com/watch?v=xhcukDSkxYM
+Referenced Tracks:
+- Snowy
 ---
 Track: Main Menu 3 (Snowdin)
 Artists:
@@ -187,6 +189,11 @@ Artists:
 Duration: 0:54
 URLs:
 - https://www.youtube.com/watch?v=Hiv_J-FHfAU
+Referenced Tracks:
+- Main Menu 1 (Ruins)
+- Snowfall
+- Birds of a Feather
+- Honeydew Cabin
 ---
 Track: Blizzard Approaching
 Artists:
@@ -194,6 +201,8 @@ Artists:
 Duration: '1:17'
 URLs:
 - https://www.youtube.com/watch?v=h1Ick1-vzD0
+Referenced Tracks:
+- Enemy Approaching (Yellow)
 ---
 Track: Birds of a Feather
 Artists:
@@ -229,6 +238,8 @@ Artists:
 Duration: '1:51'
 URLs:
 - https://www.youtube.com/watch?v=VmLa9aJUzsk
+Referenced Tracks:
+- Occupied Turf
 ---
 Track: Relaxation
 Artists:
@@ -236,6 +247,8 @@ Artists:
 Duration: '1:36'
 URLs:
 - https://www.youtube.com/watch?v=2QXq9LBRdWY
+Referenced Tracks:
+- Snowfall
 ---
 Track: Honeydew Cabin
 Artists:
@@ -243,6 +256,8 @@ Artists:
 Duration: 0:58
 URLs:
 - https://www.youtube.com/watch?v=vP08h-O2WSQ
+Referenced Tracks:
+- Relaxation
 ---
 Track: Honeydew Snow
 Artists:
@@ -250,6 +265,9 @@ Artists:
 Duration: '1:08'
 URLs:
 - https://www.youtube.com/watch?v=cx7EY2PNpqo
+Referenced Tracks:
+- Honeydew Cabin
+- Snowfall
 ---
 Track: Honeydew Ruins
 Artists:
@@ -257,6 +275,8 @@ Artists:
 Duration: 0:48
 URLs:
 - https://www.youtube.com/watch?v=5eyXsqlP0yI
+Referenced Tracks:
+- Ruins (Yellow)
 ---
 Track: Honeydew Hideaway
 Artists:
@@ -264,6 +284,8 @@ Artists:
 Duration: '1:01'
 URLs:
 - https://www.youtube.com/watch?v=2_alODhkQDU
+Referenced Tracks:
+- Forlorn
 ---
 Track: Honeydew Bark
 Artists:
@@ -271,6 +293,8 @@ Artists:
 Duration: 0:19
 URLs:
 - https://www.youtube.com/watch?v=yy9OLT_4pRk
+Referenced Tracks:
+- Dogsong
 ---
 Track: Protocol
 Artists:
@@ -279,6 +303,8 @@ Artists:
 Duration: '2:46'
 URLs:
 - https://www.youtube.com/watch?v=OcJbM-PWe78
+Referenced Tracks:
+- Birds of a Feather
 ---
 Track: Aviation
 Artists:
@@ -286,6 +312,8 @@ Artists:
 Duration: '1:04'
 URLs:
 - https://www.youtube.com/watch?v=kVIx5RluJCs
+Referenced Tracks:
+- Birds of a Feather
 ---
 Track: Quiet Stray
 Artists:
@@ -293,6 +321,9 @@ Artists:
 Duration: '1:00'
 URLs:
 - https://www.youtube.com/watch?v=Xck9aZmoY_c
+Referenced Tracks:
+- Quiet Water
+- Your Best Friend
 ---
 Track: Main Menu 4 (Dunes)
 Artists:
