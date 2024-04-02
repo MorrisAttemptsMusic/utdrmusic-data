@@ -15,6 +15,7 @@ Type: albums
 Display Style: carousel
 Actions:
 - '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
 - '[[group-gallery:beyond|Explore Beyond!]]'
 Albums:
 - UNDERTALE Soundtrack

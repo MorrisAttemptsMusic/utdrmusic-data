@@ -9,6 +9,7 @@ Enable Art Tag UI: false
 Enable Group UI: true
 Divide Track Lists By Groups:
 - group:official
+- group:fandom
 - group:beyond
 - group:additional-tracks
 Footer Content: >-
