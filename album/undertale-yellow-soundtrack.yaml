@@ -442,6 +442,8 @@ Artists:
 Duration: '1:21'
 URLs:
 - https://www.youtube.com/watch?v=DIMlVSCjBDY
+Referenced Tracks:
+- Oasis Valley
 ---
 Track: Café Dune
 Directory: cafe-dune
@@ -450,6 +452,8 @@ Artists:
 Duration: '1:10'
 URLs:
 - https://www.youtube.com/watch?v=bl4WgMafNSM
+Referenced Tracks:
+- Gemstone Fever
 ---
 Track: ラブ･ブラスター!
 Directory: mew-mew-love-blaster
@@ -466,6 +470,8 @@ Artists:
 Duration: '1:05'
 URLs:
 - https://www.youtube.com/watch?v=Tzo_VdYXKGc
+Referenced Tracks:
+- track:mew-mew-love-blaster
 ---
 Track: North Star
 Artists:
@@ -487,6 +493,10 @@ Artists:
 Duration: 0:57
 URLs:
 - https://www.youtube.com/watch?v=AverATyys3Q
+Referenced Tracks:
+- The Wild East
+- North Star
+- Feisty!
 ---
 Track: Happy Hour
 Artists:
@@ -495,6 +505,8 @@ Artists:
 Duration: 0:57
 URLs:
 - https://www.youtube.com/watch?v=T0IRbP1Z2pI
+Referenced Tracks:
+- A New Partner
 ---
 Track: Blossom
 Artists:
@@ -509,6 +521,10 @@ Artists:
 Duration: '1:43'
 URLs:
 - https://www.youtube.com/watch?v=5Q6Ss9uoQhE
+Referenced Tracks:
+- Once Upon a Truthful Time
+- North Star
+- Justice
 ---
 Track: The Stable
 Artists:
@@ -516,6 +532,8 @@ Artists:
 Duration: '1:43'
 URLs:
 - https://www.youtube.com/watch?v=owAVwJ5-EaE
+Referenced Tracks:
+- The Wild East
 ---
 Track: The Clinic
 Artists:
@@ -523,6 +541,8 @@ Artists:
 Duration: '1:43'
 URLs:
 - https://www.youtube.com/watch?v=qeMIBAv3w-Y
+Referenced Tracks:
+- The Wild East
 ---
 Track: The Slammer
 Artists:
@@ -530,6 +550,8 @@ Artists:
 Duration: '1:43'
 URLs:
 - https://www.youtube.com/watch?v=Bjeqj3atfvw
+Referenced Tracks:
+- The Wild East
 ---
 Track: The House
 Artists:
@@ -537,6 +559,8 @@ Artists:
 Duration: '1:43'
 URLs:
 - https://www.youtube.com/watch?v=SBFIFo8WLt4
+Referenced Tracks:
+- The Wild East
 ---
 Track: Six-Shooter
 Artists:
@@ -559,6 +583,8 @@ Artists:
 Duration: 0:14
 URLs:
 - https://www.youtube.com/watch?v=NcEWP33zktw
+Referenced Tracks:
+- The Wild East
 ---
 Track: Sheriff's Fate
 Artists:
@@ -566,6 +592,8 @@ Artists:
 Duration: 0:20
 URLs:
 - https://www.youtube.com/watch?v=NbbWECJsrXU
+Referenced Tracks:
+- Once Upon a Truthful Time
 ---
 Track: Nap Time
 Artists:
@@ -573,6 +601,8 @@ Artists:
 Duration: '1:44'
 URLs:
 - https://www.youtube.com/watch?v=QRg55LLNvLk
+Referenced Tracks:
+- The House
 ---
 Track: Someone's In Danger!
 Artists:
@@ -587,6 +617,9 @@ Artists:
 Duration: 0:53
 URLs:
 - https://www.youtube.com/watch?v=trbPIzRRy6Q
+Referenced Tracks:
+- Someone's In Danger!
+- Feisty!
 ---
 Track: Deal 'Em Out
 Artists:
@@ -594,6 +627,8 @@ Artists:
 Duration: '2:20'
 URLs:
 - https://www.youtube.com/watch?v=IetJ8URgg5c
+Referenced Tracks:
+- Feisty!
 ---
 Track: The Straw
 Artists:
@@ -601,6 +636,9 @@ Artists:
 Duration: 0:58
 URLs:
 - https://www.youtube.com/watch?v=QnYVH2g_UT4
+Referenced Tracks:
+- Blossom
+- Feisty!
 ---
 Track: Getting the Thoughts Out
 Artists:
@@ -608,6 +646,9 @@ Artists:
 Duration: '1:17'
 URLs:
 - https://www.youtube.com/watch?v=WbFIbYCWg4Q
+Referenced Tracks:
+- The Wild East
+- Blossom
 ---
 Track: Showdown!
 Artists:
@@ -615,6 +656,9 @@ Artists:
 Duration: '1:52'
 URLs:
 - https://www.youtube.com/watch?v=b4Z_GFpXScI
+Referenced Tracks:
+- North Star
+- Justice
 ---
 Track: Renewed
 Artists:
@@ -622,6 +666,11 @@ Artists:
 Duration: '1:13'
 URLs:
 - https://www.youtube.com/watch?v=1utbTrf68c8
+Referenced Tracks:
+- The Wild East
+- North Star
+- Justice
+- Blossom
 ---
 Track: Sunnyside Farm
 Artists:
@@ -629,6 +678,8 @@ Artists:
 Duration: '1:02'
 URLs:
 - https://www.youtube.com/watch?v=zsY_HS3b3Vg
+Referenced Tracks:
+- The Wild East
 ---
 Track: Kanako
 Artists:
@@ -636,6 +687,9 @@ Artists:
 Duration: '1:24'
 URLs:
 - https://www.youtube.com/watch?v=mpzS9qMgIqA
+Referenced Tracks:
+- Blossom
+- Justice
 ---
 Track: Change of Plans
 Artists:
@@ -643,6 +697,9 @@ Artists:
 Duration: 0:46
 URLs:
 - https://www.youtube.com/watch?v=bRvRVbf43uA
+Referenced Tracks:
+- Kanako
+- Alphys
 ---
 Track: Tomorrow Means The Surface
 Artists:
